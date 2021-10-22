@@ -8,12 +8,15 @@ There are two different type of signals that are used on a computer and the inte
 
 modulating  : digital signals -> analog signals 
 demodulating: analog signals -> digital signals  
+![圖片0](./signal.jpg)
 
 # router 
 Router is what **routes or passes** your internet connection to all of your devices in your home.  
 we can just plug device's network cable into the modem, don't need the router device.
 modem + router = modem router combination
+![圖片02](./router.jpg)
 
 # switch
 For example a router like this may hve four port so can connect four Ethernet cables for your wired devices,
 if you need more wired connection, we can connect a **switch** to router, and add more connection to switch.
+![圖片03](./switch.jpg)
