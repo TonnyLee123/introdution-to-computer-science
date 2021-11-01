@@ -11,12 +11,13 @@ demodulating: analog signals -> digital signals
 ![圖片0](./signal.jpg)
 
 # router 
+- A router is a device that connects two or more packet-switched networks or subnetworks.
 Router is what **routes or passes** your internet connection to all of your devices in your home.  
 we can just plug device's network cable into the modem, don't need the router device.
 modem + router = modem router combination  
 two primary functions:
-- managing traffic between these networks by forwarding data packets to their intended IP addresses.
-- allowing multiple devices to use the same Internet connection.
+- Managing traffic between these networks by forwarding data packets to their intended IP addresses.
+- Allowing multiple devices to use the same Internet connection.
    - 在我家，可以用我的平板，我的桌機，同學的手機，連到相同的網路。
 ![圖片02](./router.jpg)
 
