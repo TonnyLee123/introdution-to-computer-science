@@ -12,6 +12,7 @@ demodulating: analog signals -> digital signals
 
 # router 
 - A router is a device that connects two or more packet-switched networks or subnetworks.
+- Necessary for an Internet connection
 - two primary functions:
    - Managing traffic between these networks by forwarding data packets to their intended IP addresses.
    - Allowing multiple devices to use the same Internet connection.
@@ -21,6 +22,8 @@ demodulating: analog signals -> digital signals
 # switch
 For example a router like this may hve four port so can connect four Ethernet cables for your wired devices,
 if you need more wired connection, we can connect a **switch** to router, and add more connection to switch.
+
+- Connect devices within a network (often a local area network, or LAN*)
 ![圖片03](./switch.jpg)
 
 # LAN (Local Area Network)
