@@ -17,6 +17,7 @@ modem + router = modem router combination
 two primary functions:
 - managing traffic between these networks by forwarding data packets to their intended IP addresses.
 - allowing multiple devices to use the same Internet connection.
+   - 在我家，可以用我的平板，我的桌機，同學的手機，連到相同的網路。
 ![圖片02](./router.jpg)
 
 # switch
